@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introduction
 
-Welcome to the Open Research and Reproducibility workshop. Like the other workshops in this series, this one will involve a mix of recorded videos, narrative, and links to various resources for you to explore and to read. Here is a brief introduction from myself - you can make the video full screen by clickin on the icon in the bottom right of the image. 
+Welcome to the Open Research and Reproducibility workshop. Like the other workshops in this series, this one will involve a mix of recorded videos, narrative, and links to various resources for you to explore and to read. Here is a brief introduction from myself - you can make the video full screen by clicking on the icon in the bottom right of the image. 
 
 &nbsp;&nbsp;
 
