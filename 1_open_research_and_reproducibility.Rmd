@@ -15,13 +15,25 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introduction
 
-Welcome to the Open Research and Reproducibility workshop. Like the other workshops in this series, this one will involve a mix of recorded videos, narrative, and links to various resources for you to explore and to read.  To start with, I'd like you to watch the following recording of my keynote at the [Collaborations Workshop 2020](https://www.software.ac.uk/news/dr-andrew-stewart-open-collaborations-workshop-2020-keynote-open-research) event run by the [Software Sustainability Institute](https://www.software.ac.uk). In the talk, I cover the so-called replication crisis in the biomedical sciences, issues around open research, and summarise some of the initiatives (including the [UK Reproducibility Network](https://www.bristol.ac.uk/psychology/research/ukrn/)) that have been established to address the fundamental problems around open research, transparency, and reproducibility in science.
+Welcome to the Open Research and Reproducibility workshop. Like the other workshops in this series, this one will involve a mix of recorded videos, narrative, and links to various resources for you to explore and to read. Here is a brief introduction from myself - you can make the video full screen by clickin on the icon in the bottom right of the image. 
 
 &nbsp;&nbsp;
 
 <center>
 
-<iframe width="560" height="315" src="https://youtube.com/embed/E1Sd_GEYLoQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/mOW5aiG1Mfs" frameborder="0" allowfullscreen></iframe>
+
+</center>
+
+&nbsp;&nbsp;
+
+Now I'd like you to watch the following recording of my keynote at the [Collaborations Workshop 2020](https://www.software.ac.uk/news/dr-andrew-stewart-open-collaborations-workshop-2020-keynote-open-research) event run by the [Software Sustainability Institute](https://www.software.ac.uk). In the talk, I cover the so-called replication crisis in the biomedical sciences, issues around open research, and summarise some of the initiatives (including the [UK Reproducibility Network](https://www.bristol.ac.uk/psychology/research/ukrn/)) that have been established to address the fundamental problems around open research, transparency, and reproducibility in science.
+
+&nbsp;&nbsp;
+
+<center>
+
+<iframe width="560" height="315" src="https://youtube.com/embed/0eu_0E8Eg-Q" frameborder="0" allowfullscreen></iframe>
 
 </center>
 
@@ -69,7 +81,7 @@ One of the biggest challenges facing researchers who are used to the **old** way
 
 <center>
 
-<iframe width="560" height="315" src="https://youtube.com/embed/E1Sd_GEYLoQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/_4wz7DtaLC8" frameborder="0" allowfullscreen></iframe>
 
 </center>
 
@@ -100,9 +112,19 @@ There are many things we can do to make sure our research is appropriately power
 
 <center>
 
-<iframe width="560" height="315" src="https://youtube.com/embed/E1Sd_GEYLoQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/0eu_0E8Eg-Q" frameborder="0" allowfullscreen></iframe>
 
 </center>
 
 &nbsp;&nbsp;
+
+<center>
+
+[![Link to experimental power slides](images/power.png){width=75%}](
+https://docs.google.com/presentation/d/1lCCaOmVbMy08VUsteBua5KGYN2KyJ5SVdigSxAXS_VM/edit?usp=sharing)
+
+</center>
+
+
+
 
