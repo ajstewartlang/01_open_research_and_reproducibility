@@ -33,7 +33,7 @@ First I'd like you to watch the following video where I describe the history of 
 
 <center>
 
-<iframe width="560" height="315" src="https://youtube.com/embed/STw3GpLG934" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/g_jD7HmRulg" frameborder="0" allowfullscreen></iframe>
 
 </center>
 
@@ -45,7 +45,7 @@ You can also view and download the slides by clicking on the image below:
 
 <center>
 
-[![Link to Open Research slides](images/cw20.png){width=75%}](https://docs.google.com/presentation/d/1UOkWayJ5J7j2Xg1Y05sbkK-iWtlkAVvtalOu4VuEq4c/edit?usp=sharing)
+[![Link to Open Research slides](../images/cw20.png){width=75%}](https://docs.google.com/presentation/d/1UOkWayJ5J7j2Xg1Y05sbkK-iWtlkAVvtalOu4VuEq4c/edit?usp=sharing)
 
 </center>
 
@@ -57,7 +57,7 @@ Before watching the next video, please have a read through the following paper b
 
 <center>
 
-[![Link to John Ionnidis' paper](images/ionnidis.png){ width=75% }](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
+[![Link to John Ionnidis' paper](../images/ionnidis.png){ width=75% }](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
 
 </center>
 
@@ -69,7 +69,7 @@ This post by Dorothy Bishop in 2019 nicely captures the situation a number of ye
 
 <center>
 
-[![Link to Dorothy Bishop's paper](images/bishop.png){width=75% }](https://www.nature.com/articles/d41586-019-01307-2)
+[![Link to Dorothy Bishop's paper](../images/bishop.png){width=75% }](https://www.nature.com/articles/d41586-019-01307-2)
 
 </center>
 
@@ -93,7 +93,7 @@ You can also view and download the slides by clicking on the image below:
 
 <center>
 
-[![Link to how to do open research slides](images/how_to_do.png){width=75%}](
+[![Link to how to do open research slides](../images/how_to_do.png){width=75%}](
 https://docs.google.com/presentation/d/1WzSk2Ra-OLrMCPTCoQoKoF_utsq_TNu53TxoXEC82Lw/edit?usp=sharing)
 
 </center>
