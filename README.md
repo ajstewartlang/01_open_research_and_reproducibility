@@ -1,3 +1,3 @@
 # 1_open_research_and_reproducibility
  
-https://ajstewartlang.github.io/1_open_research_and_reproducibility/knitted_workshop/1_open_research_and_reproducibility.html
+https://ajstewartlang.github.io/01_open_research_and_reproducibility/knitted_workshop/01_open_research_and_reproducibility.html
