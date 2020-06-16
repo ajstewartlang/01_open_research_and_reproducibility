@@ -87,7 +87,7 @@ One of the biggest challenges facing researchers who are used to the **old** way
 
 &nbsp;&nbsp;
 
-If you have a Google account, you can also view and download the slides in a range of formats by clicking on the image below. If you don't have a Google account, you can download the slides in .pdf format by [clicking here](../slides/adopting_open_practices.pdf).
+You can also view and download the slides in a range of formats by clicking on the image below. If you don't have a Google account, you can download the slides in .pdf format by [clicking here](../slides/adopting_open_practices.pdf).
 &nbsp;&nbsp;
 
 <center>
