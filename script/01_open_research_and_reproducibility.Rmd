@@ -99,3 +99,6 @@ https://docs.google.com/presentation/d/1WzSk2Ra-OLrMCPTCoQoKoF_utsq_TNu53TxoXEC8
 
 &nbsp;&nbsp;
 
+## Improve this Workshop
+
+If you spot any issues/errors in this workshop, you can raise an issue or create a pull request for [this repo](https://github.com/ajstewartlang/01_open_research_and_reproducibility). 
