@@ -33,7 +33,7 @@ First I'd like you to watch the following video where I describe the history of 
 
 <center>
 
-<iframe width="560" height="315" src="https://youtube.com/embed/g_jD7HmRulg" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/ZeGX6hETHxQ" frameborder="0" allowfullscreen></iframe>
 
 </center>
 
@@ -81,7 +81,7 @@ One of the biggest challenges facing researchers who are used to the **old** way
 
 <center>
 
-<iframe width="560" height="315" src="https://youtube.com/embed/_4wz7DtaLC8" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/trJOIP9IM9Q" frameborder="0" allowfullscreen></iframe>
 
 </center>
 
