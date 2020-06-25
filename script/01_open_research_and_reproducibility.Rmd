@@ -75,7 +75,7 @@ This post by Dorothy Bishop in 2019 nicely captures the situation a number of ye
 
 # How to do Reproducible Research
 
-One of the biggest challenges facing researchers who are used to the **old** way of conducting research is that they feel that they don't have the knowledge or technical skills to adopt open and reproducible research practices.  But it's not that hard!  Before you run your experiment, you can pre-register your hypotheses so that when you come to analyse and write-up your results, you can demonstrate that your predictions really were made in advance of data collection.  You can also make your research data open (and FAIR) alongside your code so that others can recreate your analyses.  By adopting open source software such as R, any research findings you produce can be *re*-produced by others who can access your data and code.  This principle of using open tools to allow us to produce open (and reusable) data and code is the fundamental philosophy behind all of the workshops in this unit.  Have a look at the video below where I talk about how we can adopt open and reproducible research practices.  
+One of the biggest challenges facing researchers who are used to the **old** way of conducting research is that they feel that they don't have the knowledge or technical skills to adopt open and reproducible research practices.  But it's not that hard!  Before you run your experiment, you can pre-register your hypotheses so that when you come to analyse and write-up your results, you can demonstrate that your predictions really were made in advance of data collection.  You can also make your research data open (and FAIR) alongside your code so that others can recreate your analyses.  And by posting your research article on a pre-print server (such as [PsyArXiv](https://psyarxiv.com) or [bioRxiv](https://www.biorxiv.org)) before submission to a journal, you make your research findings available to all.  The adoption of open source software such as R, also means that any research findings you produce can be *re*-produced by others who can access your data and code.  This principle of using open tools to allow us to produce open (and reusable) data and code is the fundamental philosophy behind all of the workshops in this unit.  Have a look at the video below where I talk about how we can adopt open and reproducible research practices.
 
 &nbsp;&nbsp;
 
@@ -94,6 +94,17 @@ You can also view and download the slides in a range of formats by clicking on t
 
 [![Link to how to do open research slides](../images/how_to_do.png){width=75%}](
 https://docs.google.com/presentation/d/1WzSk2Ra-OLrMCPTCoQoKoF_utsq_TNu53TxoXEC82Lw/edit?usp=sharing)
+
+</center>
+
+&nbsp;&nbsp;
+
+Here's a great guide to the various things you can do to make your own research more open. Just click on the image to open the paper.
+
+<center>
+
+[![Link to guide on how to do open research](../images/7_steps.png){width=75%}](
+https://psyarxiv.com/cfzyx/)
 
 </center>
 
