@@ -27,6 +27,8 @@ Welcome to the Open Research and Reproducibility workshop. Like the other worksh
 
 &nbsp;&nbsp;
 
+# Open Research (A Brief History)
+
 First I'd like you to watch the following video where I describe the history of the replication crisis and the issues which have motivated a move towards the adoption of open and reproducible research practices. I delivered a version of this talk as my keynote at the [Collaborations Workshop 2020](https://www.software.ac.uk/news/dr-andrew-stewart-open-collaborations-workshop-2020-keynote-open-research) event run by the [Software Sustainability Institute](https://www.software.ac.uk). I cover the so-called replication crisis in the biomedical sciences, issues around open research, and summarise some of the initiatives (including the [UK Reproducibility Network](https://www.bristol.ac.uk/psychology/research/ukrn/)) that have been established to address the fundamental problems around open research, transparency, and reproducibility in science.
 
 &nbsp;&nbsp;
@@ -38,6 +40,8 @@ First I'd like you to watch the following video where I describe the history of 
 </center>
 
 &nbsp;&nbsp;
+
+## Slides
 
 If you have a Google account, you can also view and download the slides in a range of formats by clicking on the image below. If you don't have a Google account, you can download the slides in .pdf format by [clicking here](../slides/introduction_to_open_research.pdf).
 
@@ -53,6 +57,8 @@ If you have a Google account, you can also view and download the slides in a ran
 
 Before watching the next video, please have a read through the following paper by Ionnidis (2005) which arguably started the conversation around reproducibility that has had such an impact on research in Psychology and across the Biomedical sciences for the last few years. Clicking on the image below will take you to the paper. 
 
+## Ionnidis (2005)
+
 &nbsp;&nbsp;
 
 <center>
@@ -62,6 +68,8 @@ Before watching the next video, please have a read through the following paper b
 </center>
 
 &nbsp;&nbsp;
+
+## Bishop (2019)
 
 This post by Dorothy Bishop in 2019 nicely captures the situation a number of years later. Clicking on the image below will take you to the paper. 
 
@@ -87,6 +95,8 @@ One of the biggest challenges facing researchers who are used to the **old** way
 
 &nbsp;&nbsp;
 
+## Slides
+
 You can also view and download the slides in a range of formats by clicking on the image below. If you don't have a Google account, you can download the slides in .pdf format by [clicking here](../slides/adopting_open_practices.pdf).
 &nbsp;&nbsp;
 
@@ -98,6 +108,8 @@ https://docs.google.com/presentation/d/1WzSk2Ra-OLrMCPTCoQoKoF_utsq_TNu53TxoXEC8
 </center>
 
 &nbsp;&nbsp;
+
+## Crüwell et al. (2019)
 
 Here's a great guide to the various things you can do to make your own research more open. Just click on the image to open the paper.
 
