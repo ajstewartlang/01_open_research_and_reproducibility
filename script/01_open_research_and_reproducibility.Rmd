@@ -15,13 +15,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introduction
 
-Welcome to the Open Research and Reproducibility workshop. Like the other workshops in this series, this one will involve a mix of recorded videos, narrative, and links to various resources for you to explore and to read. Here is a brief introduction from myself - you can make the video full screen by clicking on the icon in the bottom right of the image. 
+Welcome to the Open Research and Reproducibility workshop. Like the other workshops in this series, this one involves a mix of recorded videos, narrative, and links to various resources for you to explore and to read. Here is a brief introduction from myself - you can make the video full screen by clicking on the icon in the bottom right of the image. You can also turn on the subtitles in YouTube. I have recorded the audio using a podcast microphone, so sound quality will be improved if you listen via headphones.
 
 &nbsp;&nbsp;
 
 <center>
 
-<iframe width="560" height="315" src="https://youtube.com/embed/vw-BoLFHw2s" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/bMcARZhZzlA" frameborder="0" allowfullscreen></iframe>
 
 </center>
 
