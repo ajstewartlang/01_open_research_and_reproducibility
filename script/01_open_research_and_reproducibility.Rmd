@@ -21,7 +21,7 @@ Welcome to the Open Research and Reproducibility workshop. Like the other worksh
 
 <center>
 
-<iframe width="560" height="315" src="https://youtube.com/embed/bMcARZhZzlA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/xStz6LOdObM" frameborder="0" allowfullscreen></iframe>
 
 </center>
 
