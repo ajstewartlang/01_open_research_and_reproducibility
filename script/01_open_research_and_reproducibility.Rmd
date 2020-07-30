@@ -43,13 +43,13 @@ First I'd like you to watch the following video where I describe the history of 
 
 ## Slides
 
-If you have a Google account, you can also view and download the slides in a range of formats by clicking on the image below. If you don't have a Google account, you can download the slides in .pdf format by [clicking here](../slides/introduction_to_open_research.pdf).
+You can download the slides in .pdf format by clicking on the image below. 
 
 &nbsp;&nbsp;
 
 <center>
 
-[![Link to Open Research slides](../images/cw20.png){width=75%}](https://docs.google.com/presentation/d/1UOkWayJ5J7j2Xg1Y05sbkK-iWtlkAVvtalOu4VuEq4c/edit?usp=sharing)
+[![Link to Open Research slides](../images/cw20.png){width=75%}](../slides/introduction_to_open_research.pdf)
 
 </center>
 
@@ -97,13 +97,14 @@ One of the biggest challenges facing researchers who are used to the **old** way
 
 ## Slides
 
-You can also view and download the slides in a range of formats by clicking on the image below. If you don't have a Google account, you can download the slides in .pdf format by [clicking here](../slides/adopting_open_practices.pdf).
+You can download the slides in .pdf format by clicking on the image below. 
+
 &nbsp;&nbsp;
 
 <center>
 
 [![Link to how to do open research slides](../images/how_to_do.png){width=75%}](
-https://docs.google.com/presentation/d/1WzSk2Ra-OLrMCPTCoQoKoF_utsq_TNu53TxoXEC82Lw/edit?usp=sharing)
+../slides/adopting_open_practices.pdf)
 
 </center>
 
