@@ -43,8 +43,7 @@ First I'd like you to watch the following video where I describe the history of 
 
 ## Slides
 
-You can download the slides in .pdf format by clicking on the image below. 
-
+You can download the slides in .odp format by clicking [here](../slides/introduction_to_open_research.odp) and in .pdf format by clicking on the image below. 
 &nbsp;&nbsp;
 
 <center>
@@ -97,7 +96,7 @@ One of the biggest challenges facing researchers who are used to the **old** way
 
 ## Slides
 
-You can download the slides in .pdf format by clicking on the image below. 
+You can download the slides in .odp format by clicking [here](../slides/adopting_open_practices.odp) and in .pdf format by clicking on the image below. 
 
 &nbsp;&nbsp;
 
