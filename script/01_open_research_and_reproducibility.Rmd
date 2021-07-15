@@ -21,7 +21,7 @@ Welcome to the Open Research and Reproducibility workshop. Like the other worksh
 
 <center>
 
-<iframe width="560" height="315" src="https://youtube.com/embed/xStz6LOdObM" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/xStz6LOdObM" data-external="1" frameborder="0" allowfullscreen></iframe>
 
 </center>
 
@@ -35,7 +35,7 @@ First I'd like you to watch the following video where I describe the history of 
 
 <center>
 
-<iframe width="560" height="315" src="https://youtube.com/embed/QJqxyCi8Hio" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/wJlonh-XALE" data-external="1" frameborder="0" allowfullscreen></iframe>
 
 </center>
 
@@ -43,12 +43,9 @@ First I'd like you to watch the following video where I describe the history of 
 
 ## Slides
 
-You can download the slides in .odp format by clicking [here](../slides/introduction_to_open_research.odp) and in .pdf format by clicking on the image below. 
-&nbsp;&nbsp;
-
 <center>
 
-[![Link to Open Research slides](../images/cw20.png){width=75%}](../slides/introduction_to_open_research.pdf)
+[![Link to Open Research slides](../images/cw20.png){width=75%}](https://docs.google.com/presentation/d/1UOkWayJ5J7j2Xg1Y05sbkK-iWtlkAVvtalOu4VuEq4c/edit?usp=sharing)
 
 </center>
 
@@ -88,7 +85,7 @@ One of the biggest challenges facing researchers who are used to the **old** way
 
 <center>
 
-<iframe width="560" height="315" src="https://youtube.com/embed/BscWSJFmsHE" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/BscWSJFmsHE" data-external="1" frameborder="0" allowfullscreen></iframe>
 
 </center>
 
@@ -96,14 +93,10 @@ One of the biggest challenges facing researchers who are used to the **old** way
 
 ## Slides
 
-You can download the slides in .odp format by clicking [here](../slides/adopting_open_practices.odp) and in .pdf format by clicking on the image below. 
-
-&nbsp;&nbsp;
-
 <center>
 
 [![Link to how to do open research slides](../images/how_to_do.png){width=75%}](
-../slides/adopting_open_practices.pdf)
+https://docs.google.com/presentation/d/1WzSk2Ra-OLrMCPTCoQoKoF_utsq_TNu53TxoXEC82Lw/edit?usp=sharing)
 
 </center>
 
