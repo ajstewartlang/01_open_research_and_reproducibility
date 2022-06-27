@@ -115,6 +115,13 @@ https://psycnet.apa.org/fulltext/2019-80290-002.pdf)
 
 &nbsp;&nbsp;
 
+## Haeffel (2022)
+
+This thought provoking paper by Gerald Haeffel suggests that psychology needs to focus more on theory development (and encourage the publication of results that refute theories).
+
+[![Link to Haeffel paper](../images/haeffel.png){width=75%}](
+https://royalsocietypublishing.org/doi/10.1098/rsos.220099)
+
 ## Improve this Workshop
 
 If you spot any issues/errors in this workshop, you can raise an issue or create a pull request for [this repo](https://github.com/ajstewartlang/01_open_research_and_reproducibility). 
